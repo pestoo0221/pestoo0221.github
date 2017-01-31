@@ -30,7 +30,7 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 * **Soft skills**
   + Project Management
   + GCP, SOP
-*  **Certified**
+* **Certified**
   + Good clinical practice (GCP) training (McGill University Health Center)
   + Standard Operation Procedure (SOP) training (McGill University Health Center)
   + SAS Certified Clinical Trials Programmer Using SAS 9
