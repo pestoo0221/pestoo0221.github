@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-### About Me
 
 I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong University in China, and PhD in Computational Neuroscience in National University of Singapore. I’m currently working as a post-doc fellow in department of Neurosurgery in University of Toronto/Krembil Research Institute with Dr. Mojgan Hodaie, in collaboration with The Centre for Image-Guided Innovation and Therapeutic Intervention in Sickkids.
 
@@ -16,21 +15,27 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 
 ### Skills
 
-* Neuroimaging 
+* **Neuroimaging** 
   + Structural & Functional imaginge: SPM, FSL, FreeSurfer, ANTs, Brain Connectivity Toolbox, BrainNet Viewer
   + Diffusion tractography: MRtrix, 3D Slicer, 
-* Machine learning
+* **Machine learning**
   + Support vector machine, kernel methods, deep neural networks, 
-* Statistics  
+* **Statistics**  
   + generalized linear modelling, logistic regression, multivarietate linear modeling, time series analysis, graph theory analysis
-* Programming
+* **Programming**
   + Unix system, Mac OS, BASH
   + Python, R, MATLAB, SAS, SPSS, Java
   + libsvm, scikit-learn, TensorFlow
   + Django, Wordpress
-* Soft skills
+* **Soft skills**
   + Project Management
   + GCP, SOP
+*  **Certified**
+  + Good clinical practice (GCP) training (McGill University Health Center)
+  + Standard Operation Procedure (SOP) training (McGill University Health Center)
+  + SAS Certified Clinical Trials Programmer Using SAS 9
+
+-- 
 
 ### Research Topics
 
