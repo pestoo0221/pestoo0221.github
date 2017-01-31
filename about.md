@@ -35,8 +35,6 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
   + Standard Operation Procedure (SOP) training (McGill University Health Center)
   + SAS Certified Clinical Trials Programmer Using SAS 9
 
--- 
-
 ### Research Topics
 
 * brain surface registration algorithm development
