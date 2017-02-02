@@ -3,7 +3,7 @@ layout: post
 title: Tell the species of Iris flower - Logistic Regression with Tensorflow 
 excerpt_separator: <!--more-->
 ---
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 ![]({{ site.baseurl }}/images/tf_logisticregression_deco.png)
 <!--more-->

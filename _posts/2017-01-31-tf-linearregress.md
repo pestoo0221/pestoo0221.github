@@ -3,8 +3,7 @@ layout: post
 title: Tell temperature through a cricket (biological data) - Linear Regression with Tensorflow 
 excerpt_separator: <!--more-->
 ---
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ![]({{ site.baseurl }}/images/tf_linearregression_deco.png)
 
 <!--more-->
@@ -20,18 +19,19 @@ In general, the linear model is $$ y = W * X + B $$, where X is the number of Ch
 **Important**: Before we apply the model with the input data, we need to normalize the data to help to improve the performance of the gradient descent. We normalize the data to be with mean of 0 and standard deviation of 1. $$ X_{new} = \frac {X - mean(X)}{std(X)} $$. You can try with the data without normalizing them first. In that case, changing the initial value of W and B would affect the final result a lot. 
 
 Source code:
-```html
+{% highlight bash %}
 x_data_n, y_data_n = ((x_data - x_data.mean())/x_data.std(),(y_data - y_data.mean())/y_data.std() )
-```
+{% endhighlight %}
+
 Cost function:
-```html
+{% highlight bash %}
 loss = tf.reduce_mean(tf.squared_difference(y_predicted,y_data_n))
-```
+{% endhighlight %}
 
 Optimize through learning:
-```html
+{% highlight bash %}
 optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(loss)
-```
+{% endhighlight %}
 Learning rate is selected in the range of 0.0001 to 10 (boundary included), the smaller the rate is, the more steps it takes to converge; vice versa. However, if it is too small, it will take too long to converge, and if it is too big, it may jump over the convergence point to the other extreme...We chose 0.1 in our model. 
 
 
