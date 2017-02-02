@@ -3,6 +3,8 @@ layout: post
 title: Tell temperature through a cricket (biological data) - Linear Regression with Tensorflow 
 excerpt_separator: <!--more-->
 ---
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 ![]({{ site.baseurl }}/images/tf_linearregression_deco.png)
 
 <!--more-->
@@ -13,21 +15,21 @@ In 1948, Pierce recorded the number of chirps (per 15 second) made by Crickets a
 
 The data is derieved from Pierce's book "The Song of Insects", 1948. We aim to fit a linear model and find the best fit line for the given "Chirps(per 15 Second)" and the corresponding "Temperatures(Farenhite)" using TensorFlow. 
 
-In general, the linear model is y = W * X + B, where X is the number of Chirps and y is the predicted temperature. W is the weight for X and B is the bias, or interception. The idea is to minimize the difference between the predicted temperature "y" and the acturual temperature "Y", in the form of mean squared error loss function = mean of (y - Y)^2^. With an initial "W" and "B" assigned, they were updated each iteration to minimize the loss with gradient descent optimization. The training is stopped when the change of the loss in two consecutive iterations is smaller than a preset convergence tolerence level (e.g. 0.0001).
+In general, the linear model is $$ y = W * X + B $$, where X is the number of Chirps and y is the predicted temperature. W is the weight for X and B is the bias, or interception. The idea is to minimize the difference between the predicted temperature "y" and the acturual temperature "Y", in the form of mean squared error loss function = mean of $$ (y - Y)^2 $$. With an initial "W" and "B" assigned, they were updated each iteration to minimize the loss with gradient descent optimization. The training is stopped when the change of the loss in two consecutive iterations is smaller than a preset convergence tolerence level (e.g. 0.0001).
 
-**Important**: Before we apply the model with the input data, we need to normalize the data to help to improve the performance of the gradient descent. We normalize the data to be with mean of 0 and standard deviation of 1. X_new = (X - mean(X))/std(X). You can try with the data without normalizing them first. In that case, changing the initial value of W and B would affect the final result a lot. 
+**Important**: Before we apply the model with the input data, we need to normalize the data to help to improve the performance of the gradient descent. We normalize the data to be with mean of 0 and standard deviation of 1. $$ X_{new} = \frac {X - mean(X)}{std(X)} $$. You can try with the data without normalizing them first. In that case, changing the initial value of W and B would affect the final result a lot. 
 
 Source code:
-```{r eval=FALSE}
+```html
 x_data_n, y_data_n = ((x_data - x_data.mean())/x_data.std(),(y_data - y_data.mean())/y_data.std() )
 ```
 Cost function:
-```{r eval=FALSE}
+```html
 loss = tf.reduce_mean(tf.squared_difference(y_predicted,y_data_n))
 ```
 
 Optimize through learning:
-```{r eval=FALSE}
+```html
 optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(loss)
 ```
 Learning rate is selected in the range of 0.0001 to 10 (boundary included), the smaller the rate is, the more steps it takes to converge; vice versa. However, if it is too small, it will take too long to converge, and if it is too big, it may jump over the convergence point to the other extreme...We chose 0.1 in our model. 
@@ -43,9 +45,10 @@ Tensorboaf would help you to visualize the training steps and the change of the 
 In general, there are several levels to include:
 1. tf.Graph()
 2. tf.namescope('names')
-3.1 tf.summary.scalar('varaible_name',variable)
-3.2 tf.summary.histogram('histogram', variable)
-3.3 tf.summary.image("plot", image)
+3.  tf.summary.*
++  tf.summary.scalar('varaible_name',variable)
++  tf.summary.histogram('histogram', variable)
++  tf.summary.image("plot", image)
 4. merge the summaries: merged=tf.summary.merge_all()    
 5. appoint a location to write the summary: train_writer = tf.summary.FileWriter('path_to_save', sess.graph)
 6. initialize: tf.global_variables_initializer().run()
@@ -71,10 +74,11 @@ With this model, one could easily tell what temperature it is just by listening 
 ### Quick question
 
 If the ground temperature should drop to 32º F, what happens to the cricket's chirping rate? (answer is below)
-.
-.
-.
-The crickets died.... This is biological data, so one need pay attention to the reasonable range of the data.
+* 
+* 
+* 
+
+**Answer**: The crickets died.... This is biological data, so one need pay attention to the reasonable range of the data.
 
 ### Information
 * Source code could be found on [my github](https://github.com/pestoo0221/tesnforflow_lineargression)
