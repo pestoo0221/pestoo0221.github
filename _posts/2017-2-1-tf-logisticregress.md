@@ -12,12 +12,16 @@ This post is to model a **logistic regression** between 4 features of Iris (sepa
 
 In 1936, Ronald Fisher introduced *Fisher's Iris data set* in his paper for taxonomic problems. It is also called *Anderson's Iris data set*, because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species.
 
-In general, the logistic model is a variation of Linear Regression, with the observed dependent variable y being categorical. The formula predicts the probability of the class label as a function of the independent variables: $p = 1/(1+e^-x)$. Here we use the model Y = 1 / (1+e^WX+B^) = sigmoid(W*X+B), where X is the features [150 X 4] and y is the predicted specie [150 X 3]. Y is one-hot vector where it is [1,0,0], [0,1,0], or [0,0,1] for the 3 species. W is the weight for X and B is the bias. The idea is to minimize the difference between the predicted label "y" and the acturual label "Y", in the form of total squared error loss function = sum of (y - Y)^2. With an initial "W" and "B" assigned, they were updated each iteration to minimize the loss with gradient descent optimization. The training is stopped when the change of the loss in two consecutive iterations is smaller than a preset convergence tolerence level (e.g. 0.0008).
+In general, the logistic model is a variation of Linear Regression, with the observed dependent variable y being categorical. The formula predicts the probability of the class label as a function of the independent variables: $p = 1/(1+e^-x)$,
+
+$$p=\frac{(1)(1+e^-x)}$$ 
+
+. Here we use the model Y = 1 / (1+e^WX+B^) = sigmoid(W*X+B), where X is the features [150 X 4] and y is the predicted specie [150 X 3]. Y is one-hot vector where it is [1,0,0], [0,1,0], or [0,0,1] for the 3 species. W is the weight for X and B is the bias. The idea is to minimize the difference between the predicted label "y" and the acturual label "Y", in the form of total squared error loss function = sum of (y - Y)^2. With an initial "W" and "B" assigned, they were updated each iteration to minimize the loss with gradient descent optimization. The training is stopped when the change of the loss in two consecutive iterations is smaller than a preset convergence tolerence level (e.g. 0.0008).
 
 **Important**: We did not do data normalization for this dataset since the data are close to 1 and the range is not that big. Actually I have tried to do the regression with the data normalized based on training data's mean and standard deviation, the performance is not as good as with the original data, even though every other parameter was kept the same. So one may need to check the data's range before performing the classification task.
 
 ``` html
-<a href="#">Hello world</a>
+Hello world
 ```
 Source code:
 {% highlight bash %}
