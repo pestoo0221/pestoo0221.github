@@ -20,8 +20,9 @@ Source code:
 <div>
 
 ```{r eval=FALSE}
-trainX, testX, trainY, testY = train_test_split(iris_X, iris_y, test_size=0.33, random_state=42) </div>
+trainX, testX, trainY, testY = train_test_split(iris_X, iris_y, test_size=0.33, random_state=42) 
 ```
+</div>
 {{ "{% endhighlight "}}%}
 
 67% training data, and 33% testing data.
