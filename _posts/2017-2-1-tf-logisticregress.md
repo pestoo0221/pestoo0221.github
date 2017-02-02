@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tell temperature through a cricket (biological data) - Linear Regression with Tensorflow 
+title: Tell the species of Iris flower - Logistic Regression with Tensorflow 
 excerpt_separator: <!--more-->
 ---
 ![]({{ site.baseurl }}/images/tf_logisticregression_deco.png)
@@ -22,11 +22,12 @@ trainX, testX, trainY, testY = train_test_split(iris_X, iris_y, test_size=0.33, 
 67% training data, and 33% testing data.
 
 Cost function:
+~~~~~~~~~~~~~
 ```{r eval=FALSE}
 y = tf.nn.sigmoid(tf.add(tf.matmul(X, weights)))
 loss = tf.nn.l2_loss(y-Y, name="squared_error_cost")
 ```
-
+~~~~~~~~~~~~~~~
 Optimize through learning:
 ```{r eval=FALSE}
 optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(loss)

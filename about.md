@@ -15,6 +15,10 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 
 ### Skills
 
+* **Certified**
+  + Good clinical practice (GCP) training (McGill University Health Center)
+  + Standard Operation Procedure (SOP) training (McGill University Health Center)
+  + SAS Certified Clinical Trials Programmer Using SAS 9
 * **Neuroimaging** 
   + Structural & Functional imaginge: SPM, FSL, FreeSurfer, ANTs, Brain Connectivity Toolbox, BrainNet Viewer
   + Diffusion tractography: MRtrix, 3D Slicer, 
@@ -30,10 +34,7 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 * **Soft skills**
   + Project Management
   + GCP, SOP
-* **Certified**
-  + Good clinical practice (GCP) training (McGill University Health Center)
-  + Standard Operation Procedure (SOP) training (McGill University Health Center)
-  + SAS Certified Clinical Trials Programmer Using SAS 9
+
 
 ### Research Topics
 
@@ -58,6 +59,8 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 *	**Jidan Zhong**	, Desiree Yee Ling Phua, Anqi Qiu, “Quantitative Evaluation of LDDMM, FreeSurfer, and CARET for Cortical Surface Mapping”, NeuroImage, 52(1):131-141, 2010.
 
 *	**Jidan Zhong**	, Anqi Qiu, "Multi-Manifold Diffeomorphic Metric Mapping for Aligning Cortical Hemispheric Surfaces", NeuroImage, 49(1):355-365, 2010.
+
+* Julia Christine Nantes, Sébastien Proulx, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Robert A. Brown, Richard D. Hoge, Lisa Koski, "GABA and glutamate levels correlate with MTR and clinical disability: Insights from multiple sclerosis." NeuroImage (2017).
 
 *	Julia Christine Nantes, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Yves LaPierre, Douglas Arnold, Lisa Koski, “Cortical damage and disability in multiple sclerosis: Relation to intracortical inhibition and Facilitation”, Brain Stimulation, 2016.
 
