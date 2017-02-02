@@ -16,18 +16,22 @@ In general, the logistic model is a variation of Linear Regression, with the obs
 
 
 Source code:
+{{ "{% highlight html linenos "}}%}
+<div>
+
 ```{r eval=FALSE}
-trainX, testX, trainY, testY = train_test_split(iris_X, iris_y, test_size=0.33, random_state=42)
+trainX, testX, trainY, testY = train_test_split(iris_X, iris_y, test_size=0.33, random_state=42) </div>
 ```
+{{ "{% endhighlight "}}%}
+
 67% training data, and 33% testing data.
 
 Cost function:
-~~~~~~~~~~~~~
+
 ```{r eval=FALSE}
 y = tf.nn.sigmoid(tf.add(tf.matmul(X, weights)))
 loss = tf.nn.l2_loss(y-Y, name="squared_error_cost")
 ```
-~~~~~~~~~~~~~~~
 Optimize through learning:
 ```{r eval=FALSE}
 optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(loss)
