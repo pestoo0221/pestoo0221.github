@@ -12,6 +12,7 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 * Machine Learning and Data Sicence
 * Machine Learning Application in Clinical Imaging Analysis
 * MR-guided HIFU treatment
+* Imaging research in clinical applications (Multiple Sclerosis, Trigeminal Neuralgia, Parkinson’s Disease)
 
 ### Skills
 
@@ -45,7 +46,7 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 * machine learning to study the white matter connectivity pattern in facial pain using diffusion weighted imaging
 * create whole brain group tractography in porcine models 
 * investigate potential treatment of epilepsy in children using diffusion tractography in porcine models under the MR-guided HIFU setting
-
+* evaluate the surgical treatment in Parkinson’s disease with diffusion tractgraphy
 ### Publications
 
 *	**Jidan Zhong**	, David Qixiang Chen, Matthew Walker, Adam Waspe, Thomas Looi, Karolina Piorkowska, James Drake, Mojgan Hodaie, An in vivo multi-modal structural template for neonatal piglets with high angular resolution and population-based whole-brain tractography”, Frontiers in Neuroanatomy, 2016.
