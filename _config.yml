@@ -9,8 +9,7 @@ name: Jidan Zhong
 description: PhD, Computational Neuroscientist ★ BioMedical Engineer ► Bioimaging ● Brain Research ● Data science ★ Yoga Enthusiast
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/pestoo0221/jekyll-now/master/images/profile2n.jpg
-
+avatar: {{ site.baseurl }}/images/profile2n.jpg
 #
 # Flags below are optional
 #
