@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 **Overview**
 
-Convolutional neural networks (CNN) have been widely used for image recognition. In this post, I am going to show you the application of CNN in extracing ventricles from structural MR images. 
+Convolutional neural networks (CNN) have been widely used for image recognition. In this post, I am going to show you the application of CNN in extracting ventricles from structural MR images. 
 
 **Data set** 
 
