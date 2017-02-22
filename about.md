@@ -47,6 +47,7 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 * create whole brain group tractography in porcine models 
 * investigate potential treatment of epilepsy in children using diffusion tractography in porcine models under the MR-guided HIFU setting
 * evaluate the surgical treatment in Parkinson’s disease with diffusion tractgraphy
+
 ### Publications
 
 *	**Jidan Zhong**	, David Qixiang Chen, Matthew Walker, Adam Waspe, Thomas Looi, Karolina Piorkowska, James Drake, Mojgan Hodaie, An in vivo multi-modal structural template for neonatal piglets with high angular resolution and population-based whole-brain tractography”, Frontiers in Neuroanatomy, 2016.
@@ -62,6 +63,10 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 *	**Jidan Zhong**	, Anqi Qiu, "Multi-Manifold Diffeomorphic Metric Mapping for Aligning Cortical Hemispheric Surfaces", NeuroImage, 49(1):355-365, 2010.
 
 * Julia Christine Nantes, Sébastien Proulx, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Robert A. Brown, Richard D. Hoge, Lisa Koski, "GABA and glutamate levels correlate with MTR and clinical disability: Insights from multiple sclerosis." NeuroImage (2017).
+
+* David Qixiang Chen, **Jidan Zhong**, David J. Hayes, Brendan Behan, Matthew Walker, Peter S.-P. Hung, Mojgan Hodaie, “Merged group tractography evaluation with selective automated group integrated tractography”, Frontiers in Neuroanatomy, 2016.
+
+* Klaus H. Maier-Hein, Peter Neher,…, **Jidan Zhong**,…, Maxime Descoteaux. “Tractography-based connectomes are dominated by false-positive connections”, bioRxiv, 2016.
 
 *	Julia Christine Nantes, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Yves LaPierre, Douglas Arnold, Lisa Koski, “Cortical damage and disability in multiple sclerosis: Relation to intracortical inhibition and Facilitation”, Brain Stimulation, 2016.
 
