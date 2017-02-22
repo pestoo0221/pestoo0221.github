@@ -62,23 +62,23 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 
 *	**Jidan Zhong**	, Anqi Qiu, "Multi-Manifold Diffeomorphic Metric Mapping for Aligning Cortical Hemispheric Surfaces", NeuroImage, 49(1):355-365, 2010.
 
-* Julia Christine Nantes, Sébastien Proulx, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Robert A. Brown, Richard D. Hoge, Lisa Koski, "GABA and glutamate levels correlate with MTR and clinical disability: Insights from multiple sclerosis." NeuroImage (2017).
+* Julia Christine Nantes, Sébastien Proulx, **Jidan Zhong**, Scott A Holmes, Sridar Narayanan, Robert A. Brown, Richard D. Hoge, Lisa Koski, "GABA and glutamate levels correlate with MTR and clinical disability: Insights from multiple sclerosis", NeuroImage (2017).
 
-* David Qixiang Chen, **Jidan Zhong**, David J. Hayes, Brendan Behan, Matthew Walker, Peter S.-P. Hung, Mojgan Hodaie, “Merged group tractography evaluation with selective automated group integrated tractography”, Frontiers in Neuroanatomy, 2016.
+* David Qixiang Chen, **Jidan Zhong**, David J. Hayes, Brendan Behan, Matthew Walker, Peter S.-P. Hung, Mojgan Hodaie, "Merged group tractography evaluation with selective automated group integrated tractography", Frontiers in Neuroanatomy, 2016.
 
-* Klaus H. Maier-Hein, Peter Neher,…, **Jidan Zhong**,…, Maxime Descoteaux. “Tractography-based connectomes are dominated by false-positive connections”, bioRxiv, 2016.
+* Klaus H. Maier-Hein, Peter Neher,…, **Jidan Zhong**,…, Maxime Descoteaux, "Tractography-based connectomes are dominated by false-positive connections", bioRxiv, 2016.
 
-*	Julia Christine Nantes, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Yves LaPierre, Douglas Arnold, Lisa Koski, “Cortical damage and disability in multiple sclerosis: Relation to intracortical inhibition and Facilitation”, Brain Stimulation, 2016.
+*	Julia Christine Nantes, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Yves LaPierre, Douglas Arnold, Lisa Koski, "Cortical damage and disability in multiple sclerosis: Relation to intracortical inhibition and Facilitation", Brain Stimulation, 2016.
 
 *	Julia Christine Nantes, **Jidan Zhong**	, Scott A Holmes, Benjamin Whatley,  Sridar Narayanan, Yves LaPierre, Douglas Arnold, Lisa Koski, “Intracortical inhibition abnormality during the remission phase of multiple sclerosis is related to upper limb dexterity and lesions”, Clin. Neurophysiology, 2015.
 
-*	Anqi Qiu, Anne Rifkin-Graboi, Ta Anh Tuan, **Jidan Zhong**	, Michael J. Meaney, “Inattention and Hyperactivity Predict Alterations in Specific Neural Circuits Among 6-Year-Old Boys”, Journal of the American Academy of Child & Adolescent Psychiatry, 2012.
+*	Anqi Qiu, Anne Rifkin-Graboi, Ta Anh Tuan, **Jidan Zhong**, Michael J. Meaney, “Inattention and Hyperactivity Predict Alterations in Specific Neural Circuits Among 6-Year-Old Boys”, Journal of the American Academy of Child & Adolescent Psychiatry, 2012.
 
-*	Nicolas Escoffier, **Jidan Zhong**	, Annett Schirmer, Anqi Qiu, “Emotional expressions in voice and music: Same code, same effect?”, Human Brain Mapping, 2011.
+*	Nicolas Escoffier, **Jidan Zhong**, Annett Schirmer, Anqi Qiu, “Emotional expressions in voice and music: Same code, same effect?”, Human Brain Mapping, 2011.
 
-*	Anqi Qiu, Anne Rifkin-Graboi, **Jidan Zhong**	, Desiree Yee-Ling Phua, Michael J. Meaney, “Birth Weight and Gestation Influence Striatal Morphology and Motor Response in Six-Year-Old Boys”, NeuroImage, 2011.
+*	Anqi Qiu, Anne Rifkin-Graboi, **Jidan Zhong**, Desiree Yee-Ling Phua, Michael J. Meaney, “Birth Weight and Gestation Influence Striatal Morphology and Motor Response in Six-Year-Old Boys”, NeuroImage, 2011.
 
-*	Anqi Qiu , **Jidan Zhong**	, Steven Graham, Ming Ying Chia, Kang Sim, "Combined analyses of thalamic volume, shape, and white matter integrity in first-episode schizophrenia", NeuroImage, 47(4):1163-1171, 2009.
+*	Anqi Qiu , **Jidan Zhong**, Steven Graham, Ming Ying Chia, Kang Sim, "Combined analyses of thalamic volume, shape, and white matter integrity in first-episode schizophrenia", NeuroImage, 47(4):1163-1171, 2009.
 
 
 ### Contact me
