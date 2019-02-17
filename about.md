@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong University in China, and PhD in Computational Neuroscience in National University of Singapore. I’m currently working as a post-doc fellow in department of Neurosurgery in University of Toronto/Krembil Research Institute with Dr. Mojgan Hodaie, in collaboration with The Centre for Image-Guided Innovation and Therapeutic Intervention in Sickkids.
+I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong University in China, and PhD in Computational Neuroscience in National University of Singapore. I worked as a post-doc fellow in department of Neurosurgery in University of Toronto/Krembil Research Institute with Dr. Mojgan Hodaie, in collaboration with The Centre for Image-Guided Innovation and Therapeutic Intervention in Sickkids.
 
 ### Research Interests
 
@@ -50,11 +50,13 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 
 ### Publications
 
-*	**Jidan Zhong**	, David Qixiang Chen, Matthew Walker, Adam Waspe, Thomas Looi, Karolina Piorkowska, James Drake, Mojgan Hodaie, An in vivo multi-modal structural template for neonatal piglets with high angular resolution and population-based whole-brain tractography”, Frontiers in Neuroanatomy, 2016.
+*	**Jidan Zhong**, David Qixiang Chen, Dave J. Hayes, Kevin E. Liang, Peter Hung, Mojgan Hodaie, “Multivariate pattern classification of brain white matter connectivity predicts classic trigeminal neuralgia”, Pain, 2018.
+
+*	**Jidan Zhong**	, David Qixiang Chen, Julia Christine Nantes, Scott A Holmes, Mojgan Hodaie, Lisa Koski, “Combined Structural and Functional Patterns Discriminating Motor Disability in Multiple Sclerosis using Multivariate Approaches”, Brain Imaging and Behavior, 2017.
+
+*	**Jidan Zhong**	, David Qixiang Chen, Matthew Walker, Adam Waspe, Thomas Looi, Karolina Piorkowska, James Drake, Mojgan Hodaie, An in vivo multi-modal structural template for neonatal piglets with high angular resolution and population-based whole-brain tractography”, Frontiers in Neuroanatomy, 2017.
 
 *	**Jidan Zhong**	, Julia Christine Nantes, Scott A Holmes, Serge Gallant, Sridar Narayanan, Lisa Koski, “Abnormal Functional Connectivity and Cortical Integrity Influence Dominant Hand Motor Disability in Multiple Sclerosis: A Multi-modal Analysis”, Human Brain Mapping, 2016.
-
-*	**Jidan Zhong**	, David Qixiang Chen, Julia Christine Nantes, Scott A Holmes, Mojgan Hodaie, Lisa Koski, “Combined Structural and Functional Patterns Discriminating Motor Disability in Multiple Sclerosis using Multivariate Approaches”, Brain Imaging and Behavior, 2016.
 
 *	**Jidan Zhong**	, Anne Rifkin-Graboi, Anh Tuan Ta, Kar Lai Yap, Kai-Hsiang Chuang, Michael J. Meaney, Anqi Qiu, “Functional Networks in Parallel with Cortical Development Associate with Executive Functions in Children”, Cerebral Cortex, 2013.
 
@@ -62,11 +64,19 @@ I obtained my bachelor’s degree in BioMedical Engineering in Xi’an Jiaotong 
 
 *	**Jidan Zhong**	, Anqi Qiu, "Multi-Manifold Diffeomorphic Metric Mapping for Aligning Cortical Hemispheric Surfaces", NeuroImage, 49(1):355-365, 2010.
 
+* A Boutet, M Ranjan, **Jidan Zhong**, J Germann, …, “Focused ultrasound thalamotomy location determines clinical benefits in patients with essential tremor”, Brain, 2018.
+
+* Sarasa Tohyama, Peter S.P. Hung, **Jidan Zhong**, Mojgan Hodaie, MD “Early post-surgical diffusivity metrics prognosticates long-term pain relief after Gamma Knife radiosurgery for trigeminal neuralgia”, journal of neurosurgery, 2018.
+
+* Klaus H. Maier-Hein, Peter Neher,…, **Jidan Zhong**,…, Maxime Descoteaux. “Tractography-based structural connectome analysis is systematically biased by a large number of non-existent white matter pathways”, Nature Communications, 2017.
+
+* David J. Hayes, David Q., Chen, **Jidan Zhong**, Ariel Lin, Brendan Behan, Matthew Walker, and Mojgan Hodaie. “Affective Circuitry Alterations in Patients with Trigeminal Neuralgia”, Frontiers in Neuroanatomy, 2017.
+
+* Hung, Peter S-P., David Q. Chen, Karen D. Davis, **Jidan Zhong**, and Mojgan Hodaie. "Predicting pain relief: Use of pre-surgical trigeminal nerve diffusion metrics in trigeminal neuralgia." NeuroImage: Clinical, 2017.
+
 * Julia Christine Nantes, Sébastien Proulx, **Jidan Zhong**, Scott A Holmes, Sridar Narayanan, Robert A. Brown, Richard D. Hoge, Lisa Koski, "GABA and glutamate levels correlate with MTR and clinical disability: Insights from multiple sclerosis", NeuroImage (2017).
 
 * David Qixiang Chen, **Jidan Zhong**, David J. Hayes, Brendan Behan, Matthew Walker, Peter S.-P. Hung, Mojgan Hodaie, "Merged group tractography evaluation with selective automated group integrated tractography", Frontiers in Neuroanatomy, 2016.
-
-* Klaus H. Maier-Hein, Peter Neher,…, **Jidan Zhong**,…, Maxime Descoteaux, "Tractography-based connectomes are dominated by false-positive connections", bioRxiv, 2016.
 
 *	Julia Christine Nantes, **Jidan Zhong**	, Scott A Holmes, Sridar Narayanan, Yves LaPierre, Douglas Arnold, Lisa Koski, "Cortical damage and disability in multiple sclerosis: Relation to intracortical inhibition and Facilitation", Brain Stimulation, 2016.
 
